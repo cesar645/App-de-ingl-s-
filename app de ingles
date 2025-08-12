@@ -57,7 +57,7 @@
 <div id="chat"></div>
 <button id="micBtn">🎤</button>
 <script>
-  const API_KEY = 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; // Cole sua chave da OpenAI aqui
+  const API_KEY =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; // Cole sua chave da OpenAI aqui
 
   const chatDiv = document.getElementById("chat");
   const micBtn = document.getElementById("micBtn");
